@@ -72,6 +72,8 @@ Effective data visualization plays a crucial role in understanding the socio-eco
 
 These visualizations provide an interactive way to explore the data, helping to identify patterns and outliers that could influence aid allocation decisions.
 
+[**Explore the Tableau Visualization**](https://public.tableau.com/views/ClusteringCountriesforStrategicAidAllocation_17379152484910/StrategicAidAllocation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ### Block 2: Exploratory Data Analysis (EDA) and Hypothesis Testing
 
 In this step, we delve deeper into the dataset to uncover hidden insights and validate hypotheses.
