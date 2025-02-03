@@ -35,7 +35,7 @@ In this project, clustering techniques were selected to address the challenge of
 
 ## Dataset Overview
 
-You can access the dataset via the following [Google Drive link](https://drive.google.com/file/d/1IRQWbO9m-c93XjDsbtt2nqv5RVldVPzj/view?usp=drive_link).
+You can access the dataset via the following [Dataset Link](https://drive.google.com/file/d/1IRQWbO9m-c93XjDsbtt2nqv5RVldVPzj/view?usp=drive_link).
 
 ### Data Description
 
