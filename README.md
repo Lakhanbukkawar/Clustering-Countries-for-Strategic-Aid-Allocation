@@ -125,6 +125,24 @@ After training and evaluating the model, we deploy the solution via a Flask API 
 
 4. **Web Interface (Optional)**: A simple web interface can be created for stakeholders to interact with the API.
 
+### API Endpoint
+
+You can test the API using the following endpoint:
+
+- **URL**: `http://127.0.0.1:5000/predict`
+- **Method**: POST
+- **Headers**: 
+  - `Content-Type: application/json`
+- **Body**: Select `raw` and then `JSON` and use a sample JSON payload like the following:
+  ```json
+  {
+      "Child_mort": 10.5,
+      "Income": 5000,
+      "Life_expec": 70.5,
+      "Total_fer": 2.5,
+      "Gdpp": 10000
+  }
+
 ## Benefits
 
 - **Maximized Impact**: Ensure the most effective use of resources by directing aid to countries with the greatest need.
